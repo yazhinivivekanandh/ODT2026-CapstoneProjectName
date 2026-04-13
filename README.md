@@ -1,4 +1,4 @@
-**Project Title**
+**KACHOW**
 
 [Enter your project name here]
 
@@ -28,4 +28,4 @@ Media → Weekly progress and final output
 
 
 **👥 Team Members**
-[Name]
+Naisha R Koundinya and Yazhini Vivekanandh
